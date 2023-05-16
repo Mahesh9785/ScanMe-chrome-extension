@@ -24,7 +24,7 @@ code for their website, social media profile, or any other online presence.
 1. Open Google Chrome.
 2. Go to the extensions page by entering `chrome://extensions` in the address bar.
 3. Enable "Developer mode" by toggling the switch on the top right corner.
-4. Click on "Load unpacked" and navigate to the location where you cloned the repo and open ScanMe and select the `dist` folder within the cloned repository.
+4. Click on "Load unpacked" and navigate to the location where you cloned the repo and open `ScanMe` and select the `dist` folder within the cloned repository.
 5. Navigate to the Backend folder and run `npm run dev` to start the backend server
 
 The extension is now installed and ready to use. You will see the extension icon in your browser's toolbar.
